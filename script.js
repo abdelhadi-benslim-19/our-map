@@ -36,7 +36,7 @@ var locations = [
         location: [35.915569, 0.092070],
         description: 'we also saw each other here',
         images: [
-            'images\chmouma.PNG',
+            'chmouma.PNG',
         ]
     },
     {
@@ -44,7 +44,7 @@ var locations = [
         location: [35.918885, 0.090384],
         description: 'Last time we saw each other face to face',
         images: [
-            'images\lycee benguella.jpg',
+            'lycee benguella.jpg',
         ]
     },
 ];
